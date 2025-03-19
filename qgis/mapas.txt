@@ -1,1 +1,1 @@
-
+Estes mapas foram criados para o meu projeto de pesquisa. Utilizei o software QuantumGis para isso.
