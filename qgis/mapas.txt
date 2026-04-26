@@ -1,1 +1,2 @@
-Estes mapas foram criados para o meu projeto de pesquisa. Utilizei o software QuantumGis para isso.
+Ressalto que, os mapas do município de Volta Redonda foram feitos para atender a demanda de uma pesquisa de iniciação científica na Universidade.
+Por outro lado, os dois mapas referentes ao município de Angra dos Reis, fiz para enriquecer o portfólio.
